@@ -1,0 +1,2 @@
+gcc student.c main.c -o gestion_etudiants
+./gestion_etudiants
